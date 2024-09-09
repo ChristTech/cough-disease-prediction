@@ -56,7 +56,7 @@ def load_encoder():
 encoders = load_encoder()
 
 # Streamlit UI
-st.set_page_config(page_title="Disease Prediction App", page_icon="🔬")
+st.set_page_config(page_title="Cough disease Prediction App", page_icon="🔬")
 st.title('Disease Prediction App')
 
 # CSS for background image
